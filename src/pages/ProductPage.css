@@ -1,0 +1,33 @@
+.brihatri-local-productPage.b-MiniMal-productPage {
+  width: 100%;
+  background: #ffffff;
+}
+
+.brihatri-local-productLink.b-MiniMal-productLink {
+  text-decoration: none;
+}
+
+.brihatri-local-productAccordionContent.b-MiniMal-productAccordionContent {
+  transition: max-height 320ms ease, opacity 260ms ease;
+  overflow: hidden;
+}
+
+.brihatri-local-bestSellerViewport.b-MiniMal-bestSellerViewport {
+  touch-action: pan-y;
+}
+
+.brihatri-local-productNutriScale.b-MiniMal-productNutriScale {
+  background: linear-gradient(
+    to right,
+    #159a33 0%,
+    #159a33 20%,
+    #91c626 20%,
+    #91c626 40%,
+    #ebd114 40%,
+    #ebd114 60%,
+    #ee990e 60%,
+    #ee990e 80%,
+    #dc2415 80%,
+    #dc2415 100%
+  );
+}

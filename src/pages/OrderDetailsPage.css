@@ -1,0 +1,9 @@
+.brihatri-local-orderDetailsPage.b-MiniMal-orderDetailsPage {
+  width: 100%;
+  min-height: 100vh;
+  background: #f4f4f4;
+}
+
+.brihatri-local-orderDetailsLink.b-MiniMal-orderDetailsLink {
+  text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.brihatri-local-orderHistoryPage.b-MiniMal-orderHistoryPage {
+  width: 100%;
+  min-height: 100vh;
+  background: #f4f4f4;
+}
+
+.brihatri-local-orderHistoryLink.b-MiniMal-orderHistoryLink {
+  text-decoration: none;
+}

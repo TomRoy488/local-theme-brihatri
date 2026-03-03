@@ -1,0 +1,9 @@
+.brihatri-local-orderConfirmationPage.b-MiniMal-orderConfirmationPage {
+  width: 100%;
+  min-height: 100vh;
+  background: #f4f4f4;
+}
+
+.brihatri-local-orderConfirmationLink.b-MiniMal-orderConfirmationLink {
+  text-decoration: none;
+}

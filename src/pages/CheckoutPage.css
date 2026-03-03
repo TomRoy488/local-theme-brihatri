@@ -1,0 +1,14 @@
+.brihatri-local-checkoutPage.b-MiniMal-checkoutPage {
+  width: 100%;
+  min-height: 100vh;
+  background: #f4f4f4;
+}
+
+.brihatri-local-checkoutLink.b-MiniMal-checkoutLink {
+  text-decoration: none;
+}
+
+.brihatri-local-checkoutSummary.b-MiniMal-checkoutSummary {
+  position: sticky;
+  top: 20px;
+}

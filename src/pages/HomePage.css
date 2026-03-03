@@ -1,0 +1,65 @@
+.brihatri-local-homepage.b-MiniMal-homepage {
+  width: 100%;
+  background: #ffffff;
+}
+
+.brihatri-local-hero.b-MiniMal-hero {
+  border-top: 1px solid #f0f0f0;
+}
+
+.brihatri-local-cta.b-MiniMal-cta {
+  text-decoration: none;
+}
+
+.brihatri-local-kicker.b-MiniMal-kicker {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+}
+
+.brihatri-local-mobileCounter.b-MiniMal-mobileCounter {
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}
+
+.brihatri-local-categoryViewport.b-MiniMal-categoryViewport {
+  touch-action: pan-y;
+}
+
+.brihatri-local-bestSellerViewport.b-MiniMal-bestSellerViewport {
+  touch-action: pan-y;
+}
+
+.brihatri-local-lifestyleMobileViewport.b-MiniMal-lifestyleMobileViewport {
+  touch-action: pan-y;
+}
+
+.brihatri-local-hotMealsViewport.b-MiniMal-hotMealsViewport {
+  touch-action: pan-y;
+}
+
+.brihatri-local-testimonialCard.b-MiniMal-testimonialCard {
+  touch-action: pan-y;
+}
+
+.brihatri-local-testimonialQuote.b-MiniMal-testimonialQuote {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.brihatri-local-categoryCounter.b-MiniMal-categoryCounter {
+  letter-spacing: 0.2px;
+}
+
+.brihatri-local-newsTickerTrack.b-MiniMal-newsTickerTrack {
+  animation: brihatri-local-news-ticker 24s linear infinite;
+  will-change: transform;
+}
+
+@keyframes brihatri-local-news-ticker {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}

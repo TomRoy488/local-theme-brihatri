@@ -1,0 +1,17 @@
+.brihatri-local-categoryPage.b-MiniMal-categoryPage {
+  width: 100%;
+  background: #f4f4f4;
+}
+
+.brihatri-local-categoryLink.b-MiniMal-categoryLink {
+  text-decoration: none;
+}
+
+.brihatri-local-categoryCard.b-MiniMal-categoryCard {
+  box-shadow: none;
+}
+
+.brihatri-local-blackEditionVideo.b-MiniMal-blackEditionVideo {
+  object-fit: cover;
+  object-position: center;
+}

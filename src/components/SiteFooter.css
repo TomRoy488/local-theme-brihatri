@@ -1,0 +1,13 @@
+.brihatri-local-siteFooter.b-MiniMal-siteFooter {
+  width: 100%;
+  background: #17191f;
+  color: #f2f2f2;
+}
+
+.brihatri-local-footerLink.b-MiniMal-footerLink {
+  text-decoration: none;
+}
+
+.brihatri-local-footerLangMenu.b-MiniMal-footerLangMenu {
+  transition: opacity 220ms ease, transform 220ms ease;
+}

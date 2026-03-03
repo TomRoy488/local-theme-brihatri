@@ -1,0 +1,19 @@
+.brihatri-local-siteHeader.b-MiniMal-siteHeader {
+  width: 100%;
+  border: 1px solid #e4e4e4;
+  border-left: 0;
+  border-right: 0;
+  background: #f7f7f7;
+}
+
+.brihatri-local-headerLink.b-MiniMal-headerLink {
+  text-decoration: none;
+}
+
+.brihatri-local-mobileMenuPanel.b-MiniMal-mobileMenuPanel {
+  transition: transform 280ms ease, opacity 220ms ease;
+}
+
+.brihatri-local-mobileMenuBackdrop.b-MiniMal-mobileMenuBackdrop {
+  transition: opacity 220ms ease;
+}
